@@ -102,11 +102,11 @@ asyncio.run(main())
 
 **Подготовка:**
 
-Установите необходимые библиотеки: `pip install telethon python-dotenv pytz`.
+1. Установите необходимые библиотеки: `pip install telethon python-dotenv pytz`.
 
-Создайте файл `.env` и добавьте туда `api_id` и `api_hash`, полученные на [my.telegram.org](https://my.telegram.org/auth).
+2. Создайте файл `.env` и добавьте туда `api_id` и `api_hash`, полученные на [my.telegram.org](https://my.telegram.org/auth).
 
-Замените `USERNAME` на имя пользователя или номер телефона.
+3. Замените `USERNAME` на имя пользователя или номер телефона.
 
 ## Полная версия скрипта
 
